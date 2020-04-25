@@ -3,7 +3,7 @@
   /* header style */
   #Header .mobile-menu ul li {
     list-style: none;
-    padding: 0 0 20px 20px; 
+    padding: 0 0 20px 20px;
   }
   /* Hero banner style */
   #HeroBanner .hero-content h1 {
@@ -40,30 +40,30 @@
     margin: 0;
   }
   /* porfolio style */
-  #Portfolio {
+  #Ourbooks {
     padding: 50px 0;
   }
-  #Portfolio .portfolio-wrapper .each-portfolio {
+  #Ourbooks .Ourbooks-wrapper .each-Ourbooks {
     position: relative;
     width: 100%;
     float: left;
     margin: 0 0 10px;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap {
+  #Ourbooks .each-Ourbooks .hover-cont-wrap {
     opacity: 1;
     height: auto;
     top: auto;
     bottom: 0;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap .p-title {
+  #Ourbooks .each-Ourbooks .hover-cont-wrap .p-title {
     top: 0;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap .p-desc {
+  #Ourbooks .each-Ourbooks .hover-cont-wrap .p-desc {
     top: 0;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap .hover-cont-block {
+  #Ourbooks .each-Ourbooks .hover-cont-wrap .hover-cont-block {
     top: 0;
-    transform: translateY(0%); 
+    transform: translateY(0%);
   }
   /* about us style */
   #About .about-wrapper {
@@ -153,24 +153,24 @@
   #Services .each-service:last-child {
     margin: 0;
   }
-  /* portfolio section style */
-  #Portfolio .portfolio-wrapper .each-portfolio {
+  /* Ourbooks section style */
+  #Ourbooks .Ourbooks-wrapper .each-Ourbooks {
     position: relative;
     width: calc(50% - 10px);
     float: left;
     margin: 0 5px 10px;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap {
+  #Ourbooks .each-Ourbooks .hover-cont-wrap {
     position: relative;
     opacity: 1;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap .p-title {
+  #Ourbooks .each-Ourbooks .hover-cont-wrap .p-title {
     top: 0;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap .p-desc {
+  #Ourbooks .each-Ourbooks .hover-cont-wrap .p-desc {
     top: 0;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap .hover-cont-block {
+  #Ourbooks .each-Ourbooks .hover-cont-wrap .hover-cont-block {
     top: 0;
     transform: translateY(0%);
   }
@@ -270,17 +270,17 @@
     max-width: calc(50% - 30px);
   }
   /* porfolio section style */
-  #Portfolio .portfolio-wrapper .each-portfolio {
+  #Ourbooks .Ourbooks-wrapper .each-Ourbooks {
     width: calc(50% - 10px);
   }
-  #Portfolio .each-portfolio .hover-cont-wrap {
+  #Ourbooks .each-Ourbooks .hover-cont-wrap {
     position: relative;
     opacity: 1;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap .p-title, #Portfolio .each-portfolio .hover-cont-wrap .p-desc {
+  #Ourbooks .each-Ourbooks .hover-cont-wrap .p-title, #Ourbooks .each-Ourbooks .hover-cont-wrap .p-desc {
     top: 0;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap .hover-cont-block {
+  #Ourbooks .each-Ourbooks .hover-cont-wrap .hover-cont-block {
     top: 0;
     transform: translateY(0%);
   }
@@ -321,15 +321,15 @@
 }
 /*Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) and (max-width: 1199px) {
-  /* portfolio section style */
-  #Portfolio .each-portfolio .hover-cont-wrap {
+  /* Ourbooks section style */
+  #Ourbooks .each-Ourbooks .hover-cont-wrap {
     position: relative;
     opacity: 1;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap .p-title, #Portfolio .each-portfolio .hover-cont-wrap .p-desc {
+  #Ourbooks .each-Ourbooks .hover-cont-wrap .p-title, #Ourbooks .each-Ourbooks .hover-cont-wrap .p-desc {
     top: 0;
   }
-  #Portfolio .each-portfolio .hover-cont-wrap .hover-cont-block {
+  #Ourbooks .each-Ourbooks .hover-cont-wrap .hover-cont-block {
     top: 0;
     transform: translateY(0%);
   }

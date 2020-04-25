@@ -378,14 +378,14 @@ ul, li {
 	margin: 0;
 }
 /* porfolio style goes here */
-#Portfolio {
+#Ourbooks {
 	background-color: #fafafa;
 	padding: 80px 0;
 }
-#Portfolio .block-heading p:last-of-type {
+#Ourbooks .block-heading p:last-of-type {
 	margin: 0;
 }
-#Portfolio .portfolio-wrapper .each-portfolio {
+#Ourbooks .Ourbooks-wrapper .each-Ourbooks {
 	position: relative;
 	width: calc(33.3% - 10px);
 	float: left;
@@ -393,11 +393,11 @@ ul, li {
 	text-decoration: none;
 	outline: 0 none;
 }
-#Portfolio .each-portfolio img {
+#Ourbooks .each-Ourbooks img {
 	width: 100%;
 	height: auto;
 }
-#Portfolio .each-portfolio .hover-cont-wrap {
+#Ourbooks .each-Ourbooks .hover-cont-wrap {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -411,34 +411,34 @@ ul, li {
 	transition: all 0.3s ease-in-out;
 	padding: 20px;
 }
-#Portfolio .each-portfolio .hover-cont-wrap .p-title {
+#Ourbooks .each-Ourbooks .hover-cont-wrap .p-title {
 	font-size: 22px;
 	color: #fff;
 	position: relative;
 	top: -100px;
 	transition: top 0.3s ease-in-out;
 }
-#Portfolio .each-portfolio .hover-cont-wrap .p-desc {
+#Ourbooks .each-Ourbooks .hover-cont-wrap .p-desc {
 	position: relative;
 	top: 100px;
 	transition: top 0.3s ease-in-out;
 	color: #fff;
 	margin: 0;
 }
-#Portfolio .each-portfolio .hover-cont-wrap .icon-div {
+#Ourbooks .each-Ourbooks .hover-cont-wrap .icon-div {
 	font-size: 25px;
 }
-#Portfolio .each-portfolio .hover-cont-wrap .hover-cont-block {
+#Ourbooks .each-Ourbooks .hover-cont-wrap .hover-cont-block {
 	display: block;
 	position: relative;
 	top: 50%;
 	transform: translateY(-50%);
 }
-#Portfolio .portfolio-wrapper .each-portfolio:hover .hover-cont-wrap {
+#Ourbooks .Ourbooks-wrapper .each-Ourbooks:hover .hover-cont-wrap {
 	opacity: 1;
 	transition: all 0.3s ease-in-out;
 }
-#Portfolio .portfolio-wrapper .each-portfolio:hover .hover-cont-wrap .p-title, #Portfolio .portfolio-wrapper .each-portfolio:hover .hover-cont-wrap .p-desc {
+#Ourbooks .Ourbooks-wrapper .each-Ourbooks:hover .hover-cont-wrap .p-title, #Ourbooks .Ourbooks-wrapper .each-Ourbooks:hover .hover-cont-wrap .p-desc {
 	top: 0;
 	transition: top 0.3s ease-in-out;
 }
@@ -667,6 +667,3 @@ ul, li {
 #Footer .social-share ul li a:hover .fa-instagram {
 	color: #fb3958;
 }
-
-
-
